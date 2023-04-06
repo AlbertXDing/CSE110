@@ -16,3 +16,7 @@ I enjoy the math behind programming and thinking up algorithms.
 **What is my favorite thing to do when I am bored?**
 
 Watch [Youtube](https://www.youtube.com/). 
+
+**Want to learn more about me?**
+
+[Click Here](#Albert Ding)
