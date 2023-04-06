@@ -41,5 +41,6 @@ Watch [Youtube](https://www.youtube.com/).
 **Like most people, I have a bucket list:**
 
 - [ ] go skydiving
+- [x] eat a sandwhich under a waterfall
 - [ ] see the northern lights in person
 - [ ] eat a pizza in Italy
