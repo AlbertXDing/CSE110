@@ -12,3 +12,7 @@ I enjoy the math behind programming and thinking up algorithms.
 **What was my first ever program?**
 
 `System.out.println("Hello World!")`
+
+**What is my favorite thing to do when I am bored?**
+
+Watch [Youtube](https://www.youtube.com/). 
