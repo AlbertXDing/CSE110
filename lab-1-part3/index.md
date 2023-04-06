@@ -31,3 +31,15 @@ Watch [Youtube](https://www.youtube.com/).
 - Chicken Wings
 - Beef Noodle Rolls
 - Scallion Pancake
+
+**I also enjoy watch basketball. My favorite players are:**
+
+1. Stephen Curry (I am from the Bay Area)
+2. Kevin Durant
+3. Tim Duncan
+
+**Like most people, I have a bucket list:**
+
+[] go skydiving
+[] see the northern lights in person
+[] eat a pizza in Italy
