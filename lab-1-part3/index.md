@@ -9,4 +9,6 @@
 
 I enjoy the math behind programming and thinking up algorithms. 
 
+**What was my first ever program?**
 
+`System.out.println("Hello World!")`
