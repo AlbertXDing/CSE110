@@ -19,4 +19,7 @@ Watch [Youtube](https://www.youtube.com/).
 
 **Want to learn more about me?**
 
-[Click Here](#Albert-Ding)
+[Albert Ding](#Albert-Ding)
+
+**Checkout my CSE110 README file!**
+[README file](CSE110/README.md)
