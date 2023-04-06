@@ -25,3 +25,9 @@ Watch [Youtube](https://www.youtube.com/).
 
 
 [Po](po.png)
+
+**Much like Po, I love to eat. Here are my favorite foods:**
+
+-Chicken Wings
+-Beef Noodle Rolls
+-Scallion Pancake
