@@ -4,4 +4,8 @@
 
 > "Your mind is like this water, my friend. When it is agitated, it becomes difficult to see. But if you allow it to settle, the answer becomes clear." - Master Oogway
 
+**Why do I want to be a software engineer?**
+
+I enjoy the math behind programming and thinking up algorithms. 
+
 
