@@ -22,4 +22,4 @@ Watch [Youtube](https://www.youtube.com/).
 [Albert Ding](#Albert-Ding)
 
 **Checkout my CSE110 README file!**
-[README file](CSE110/README.md)
+[README file](po.png)
