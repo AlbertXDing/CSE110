@@ -19,4 +19,4 @@ Watch [Youtube](https://www.youtube.com/).
 
 **Want to learn more about me?**
 
-[Click Here](#Albert Ding)
+[Click Here](#Albert-Ding)
