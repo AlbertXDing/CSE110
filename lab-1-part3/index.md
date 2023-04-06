@@ -40,6 +40,6 @@ Watch [Youtube](https://www.youtube.com/).
 
 **Like most people, I have a bucket list:**
 
-[] go skydiving
-[] see the northern lights in person
-[] eat a pizza in Italy
+- [] go skydiving
+- [] see the northern lights in person
+- [] eat a pizza in Italy
