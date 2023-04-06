@@ -2,4 +2,4 @@
 
 https://albertxding.github.io/CSE110/
 
-lab 1 Using Markdown [here](lab-1-part3/index.md)
+URL for lab 1 "Using Markdown": https://albertxding.github.io/CSE110/lab-1-part3/
