@@ -21,5 +21,5 @@ Watch [Youtube](https://www.youtube.com/).
 
 [Albert Ding](#Albert-Ding)
 
-**Checkout my CSE110 README file!**
-[README file](po.png)
+**Checkout this awesome picture of Po the panda!**
+[Po](po.png)
