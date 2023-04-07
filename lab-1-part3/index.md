@@ -7,7 +7,7 @@
 
 **Why do I want to be a software engineer?**
 
-I enjoy the math behind programming and thinking up algorithms. 
+I enjoy the math behind programming as well as thinking up algorithms. 
 
 **What was my first ever program?**
 
@@ -32,7 +32,7 @@ Watch [Youtube](https://www.youtube.com/).
 - Beef Noodle Rolls
 - Scallion Pancake
 
-**I also enjoy watch basketball. My favorite players are:**
+**I also enjoy watching basketball. My favorite players are:**
 
 1. Stephen Curry (I am from the Bay Area)
 2. Kevin Durant
